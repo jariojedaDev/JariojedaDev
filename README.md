@@ -68,9 +68,9 @@ Creative Computer Systems Engineering Student
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jariojedaDev&show_icons=true&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JariojedaDev&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jariojedaDev&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JariojedaDev&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -78,7 +78,7 @@ Creative Computer Systems Engineering Student
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jariojedaDev&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JariojedaDev&theme=radical&hide_border=true"/>
 
 </div>
 
