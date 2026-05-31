@@ -23,19 +23,11 @@ Creative Computer Systems Engineering Student
 
 🎓 Systems Engineering Student
 
-<br><br>
-
 💻 Passionate about Web Development
-
-<br><br>
 
 🌱 Currently learning new technologies and improving my skills
 
-<br><br>
-
 🚀 Building projects to grow my portfolio
-
-<br><br>
 
 🎨 Interested in UI/UX Design
 
@@ -43,13 +35,11 @@ Creative Computer Systems Engineering Student
 
 <td width="450" valign="top">
 
-<h2>💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql"/>
-
-<br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
