@@ -52,45 +52,6 @@ Creative Computer Systems Engineering Student
 
 ---
 
-## ✨ Featured Projects
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### ☕
-
-Coffee Shop Website
-
-Responsive website built with HTML, CSS and JavaScript.
-
-</td>
-
-<td width="33%" align="center">
-
-### 📊
-
-Admin Dashboard
-
-Administrative panel for managing users and sales.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🗄️
-
-Database System
-
-Database design and implementation using MySQL and PHP.
-
-</td>
-
-</tr>
-</table>
-
----
 
 ## 📚 Certifications
 
