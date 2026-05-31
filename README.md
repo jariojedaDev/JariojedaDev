@@ -22,7 +22,7 @@ Web Development • UI Design • Databases
 <h2 align="center">🌸 About Me</h2>
 <br>
 
-🎓 Systems Engineering Student
+👧 Systems Engineering Student
 
 💻 Passionate about Web Development
 
