@@ -1,32 +1,33 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,24,30&text=Jari%20Ojeda&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20🌸&descAlignY=60"/>
+<img src="./Git_Jari.png" width="100%">
 
-<br>
+# 🌸 Hi, I'm Jari
 
-<h1>🌸 Hi, I'm Jari 🌸</h1>
+### Software Developer
+### Systems Engineering Student
 
-<h3>
-💻 Web Development • 🎨 UI Design • 🚀 Future Full Stack Developer
-</h3>
+💖 Web Development • UI Design • Databases
 
 </div>
 
-<hr>
+<br>
 
-<h2>🌷 About Me</h2>
+## 🌷 About Me
 
-<ul>
-<li>🎓 Systems Engineering Student</li>
-<li>💖 Passionate about Web Development</li>
-<li>🌱 Currently learning new technologies</li>
-<li>🚀 Building projects to grow my portfolio</li>
-<li>🎨 Interested in UI/UX Design</li>
-</ul>
+🎓 Systems Engineering Student
 
-<hr>
+💻 Passionate about Web Development
 
-<h2>💻 Tech Stack</h2>
+🌱 Currently learning new technologies and improving my skills
+
+🚀 Building projects to grow my portfolio
+
+🎨 Interested in UI/UX Design
+
+<br>
+
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -34,99 +35,73 @@
 
 </div>
 
-<hr>
+<br>
 
-<h2>✨ Featured Projects</h2>
+## ✨ Featured Projects
 
-<table>
-<tr>
-<td width="33%" align="center">
+### ☕ Coffee Shop Website
 
-### ☕
+Responsive website built with HTML, CSS and JavaScript.
 
-Website for Coffee Shop
+### 📊 Administrative Dashboard
 
-Responsive website developed with HTML, CSS and JavaScript.
+Dashboard for user and sales management.
 
-</td>
+### 🗄️ Database System
 
-<td width="33%" align="center">
+Project focused on database design and management using MySQL and PHP.
 
-### 📊
+<br>
 
-Admin Dashboard
-
-Administrative panel for managing sales and users.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🗄️
-
-Database System
-
-Database management project using MySQL and PHP.
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-<h2>📚 Certifications</h2>
-
-<div>
+## 📚 Certifications
 
 🏆 Data Protection
 
-<br>
-
 🏆 Introduction to Data Science
 
+*Santander Open Academy*
+
 <br>
 
-<sub>Santander Open Academy</sub>
-
-</div>
-
-<hr>
-
-<h2>📈 GitHub Analytics</h2>
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jariojedaDev&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jariojedaDev&show_icons=true&theme=radical"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jariojedaDev&layout=compact&theme=radical"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jariojedaDev&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jariojedaDev&layout=compact&theme=radical"/>
 
 </div>
 
-<hr>
-
-<h2>🌸 Currently</h2>
-
-```diff
-+ Learning and improving Web Development skills
-+ Building personal projects
-+ Growing my GitHub portfolio
-+ Exploring UI/UX Design
-```
-
-<hr>
+<br>
 
 <div align="center">
 
-<h2>💖 Let's Connect</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jariojedaDev&theme=radical"/>
+
+</div>
+
+<br>
+
+## 🌸 Currently
+
+- 📚 Studying Systems Engineering
+- 💻 Learning Web Development
+- 🚀 Building personal projects
+- 🎨 Improving UI/UX skills
+
+<br>
+
+## 🤝 Connect With Me
 
 📧 jariojeda.dev@gmail.com
 
-<br><br>
+🌎 Mexico
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=ff4da6"/>
+<br>
+
+<div align="center">
+
+✨ Thanks for visiting my profile ✨
 
 </div>
