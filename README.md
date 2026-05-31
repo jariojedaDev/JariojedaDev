@@ -17,7 +17,7 @@ Creative Computer Systems Engineering Student
 <table>
 <tr>
 
-<td width="450" valign="top">
+<td width="500" valign="top">
 
 <h2 align="center">🌷 About Me</h2>
 
@@ -33,7 +33,7 @@ Creative Computer Systems Engineering Student
 
 </td>
 
-<td width="450" valign="top">
+<td width="500" valign="top">
 
 <h2 align="center">💻 Tech Stack</h2>
 
