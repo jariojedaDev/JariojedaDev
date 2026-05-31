@@ -61,10 +61,8 @@ Web Development • UI Design • Databases
 ## 📚 Certifications
 
 ◎ Data Protection
-<sub>Santander Open Academy</sub>
 
 ◎ Introduction to Data Science
-<sub>Santander Open Academy</sub>
 
 ---
 
