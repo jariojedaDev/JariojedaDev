@@ -23,11 +23,7 @@ Creative Computer Systems Engineering Student
 
 🎓 Systems Engineering Student
 
-<br><br>
-
 💻 Passionate about Web Development
-
-<br><br>
 
 🌱 Currently learning new technologies and improving my skills
 
