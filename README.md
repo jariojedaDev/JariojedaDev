@@ -1,71 +1,132 @@
 <div align="center">
 
-# 🌸 Hola, soy Jari Ojeda
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,24,30&text=Jari%20Ojeda&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20🌸&descAlignY=60"/>
 
-### Estudiante de Ingeniería en Sistemas Computacionales
+<br>
 
-Apasionada por el desarrollo web y la creación de soluciones tecnológicas.
+<h1>🌸 Hi, I'm Jari 🌸</h1>
+
+<h3>
+💻 Web Development • 🎨 UI Design • 🚀 Future Full Stack Developer
+</h3>
 
 </div>
 
----
+<hr>
 
-## 💖 Sobre mí
+<h2>🌷 About Me</h2>
 
-- 🎓 Estudiante del Instituto Tecnológico de Ensenada
-- 🌱 Actualmente aprendiendo nuevas tecnologías web
-- 💻 Interesada en Frontend y desarrollo Full Stack
-- 🚀 Me gusta crear proyectos que resuelvan problemas reales
-- 🎨 También disfruto el diseño visual y la creación de contenido digital
+<ul>
+<li>🎓 Systems Engineering Student</li>
+<li>💖 Passionate about Web Development</li>
+<li>🌱 Currently learning new technologies</li>
+<li>🚀 Building projects to grow my portfolio</li>
+<li>🎨 Interested in UI/UX Design</li>
+</ul>
 
----
+<hr>
 
-## 🛠️ Tecnologías
+<h2>💻 Tech Stack</h2>
 
-### Frontend
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode"/>
 
-### Backend
+</div>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<hr>
 
-### Bases de Datos
+<h2>✨ Featured Projects</h2>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td width="33%" align="center">
 
-### Herramientas
+### ☕
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+Website for Coffee Shop
 
----
+Responsive website developed with HTML, CSS and JavaScript.
 
-## 📚 Certificaciones
+</td>
 
-- Protección de Datos — Santander Open Academy
-- Introducción a la Ciencia de Datos — Santander Open Academy
+<td width="33%" align="center">
 
----
+### 📊
 
-## 📊 Estadísticas
+Admin Dashboard
 
-<p align="center">
+Administrative panel for managing sales and users.
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jariojedaDev&show_icons=true&theme=radical"/>
+</td>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jariojedaDev&layout=compact&theme=radical"/>
+<td width="33%" align="center">
 
-</p>
+### 🗄️
 
----
+Database System
 
-## 🌷 Contacto
+Database management project using MySQL and PHP.
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h2>📚 Certifications</h2>
+
+<div>
+
+🏆 Data Protection
+
+<br>
+
+🏆 Introduction to Data Science
+
+<br>
+
+<sub>Santander Open Academy</sub>
+
+</div>
+
+<hr>
+
+<h2>📈 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jariojedaDev&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jariojedaDev&layout=compact&theme=radical"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jariojedaDev&theme=radical"/>
+
+</div>
+
+<hr>
+
+<h2>🌸 Currently</h2>
+
+```diff
++ Learning and improving Web Development skills
++ Building personal projects
++ Growing my GitHub portfolio
++ Exploring UI/UX Design
+```
+
+<hr>
+
+<div align="center">
+
+<h2>💖 Let's Connect</h2>
 
 📧 jariojeda.dev@gmail.com
 
-✨ Gracias por visitar mi perfil ✨
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=ff4da6"/>
+
+</div>
