@@ -23,11 +23,19 @@ Creative Computer Systems Engineering Student
 
 🎓 Systems Engineering Student
 
+<br>
+
 💻 Passionate about Web Development
+
+<br>
 
 🌱 Currently learning new technologies and improving my skills
 
+<br>
+
 🚀 Building projects to grow my portfolio
+
+<br>
 
 🎨 Interested in UI/UX Design
 
@@ -37,11 +45,13 @@ Creative Computer Systems Engineering Student
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql"/>
 
-<img src="https://skillicons.dev/icons?i=github,vscode"/>
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
 
@@ -64,24 +74,6 @@ Creative Computer Systems Engineering Student
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jariojedaDev&show_icons=true&theme=radical&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JariOjedaDev&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌸 Currently
 
 ```txt
@@ -93,7 +85,7 @@ Creative Computer Systems Engineering Student
 
 ---
 
-## 💌 Let's Connect
+## 💖 Let's Connect
 
 📧 jariojeda.dev@gmail.com
 
@@ -103,6 +95,6 @@ Creative Computer Systems Engineering Student
 
 <div align="center">
 
-✨ Building the future, one line of code at a time ✨
+🌸 Learning, creating and growing every day 🌸
 
 </div>
