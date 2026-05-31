@@ -30,6 +30,7 @@ Creative Computer Systems Engineering Student
 🚀 Building projects to grow my portfolio
 
 🎨 Interested in UI/UX Design
+
 <br>
 
 </td>
