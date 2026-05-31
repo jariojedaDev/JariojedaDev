@@ -12,46 +12,53 @@ Creative Computer Systems Engineering Student
 
 ---
 
+<div align="center">
+
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="450">
 
-## 🌷 About Me
+<h2>🌷 About Me</h2>
 
 🎓 Systems Engineering Student
 
+<br><br>
+
 💻 Passionate about Web Development
 
-🌱 Learning new technologies
+<br><br>
 
-🚀 Building personal projects
+🌱 Currently learning new technologies and improving my skills
+
+<br><br>
+
+🚀 Building projects to grow my portfolio
+
+<br><br>
 
 🎨 Interested in UI/UX Design
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="450">
 
-## 💻 Tech Stack
+<h2>💻 Tech Stack</h2>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </td>
 
 </tr>
 </table>
 
----
+</div>
 
+---
 
 ## 📚 Certifications
 
@@ -59,7 +66,7 @@ Creative Computer Systems Engineering Student
 
 🏆 Introduction to Data Science
 
-*Santander Open Academy*
+<sub>Santander Open Academy</sub>
 
 ---
 
@@ -71,11 +78,26 @@ Creative Computer Systems Engineering Student
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jariojedaDev&layout=compact&theme=radical&hide_border=true"/>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jariojedaDev&theme=radical&hide_border=true"/>
 
 </div>
+
+---
+
+## 🌸 Currently
+
+```txt
+📚 Studying Systems Engineering
+💻 Learning Web Development
+🚀 Building personal projects
+🎨 Improving UI/UX skills
+```
 
 ---
 
