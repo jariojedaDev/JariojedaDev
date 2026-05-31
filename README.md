@@ -56,9 +56,9 @@ Creative Computer Systems Engineering Student
 
 ## 📚 Certifications
 
-🏆 Data Protection
+◎ Data Protection
 
-🏆 Introduction to Data Science
+◎ Introduction to Data Science
 
 <sub>Santander Open Academy</sub>
 
