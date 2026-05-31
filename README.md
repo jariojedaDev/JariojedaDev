@@ -68,9 +68,7 @@ Creative Computer Systems Engineering Student
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jariojedaDev&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JariOjedaDev&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jariojedaDev&show_icons=true&theme=radical&hide_border=true"/>
 
 </div>
 
