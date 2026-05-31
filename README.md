@@ -17,13 +17,17 @@ Creative Computer Systems Engineering Student
 <table>
 <tr>
 
-<td align="center" width="450">
+<td width="450" valign="top">
 
-<h2>🌷 About Me</h2>
+<h2 align="center">🌷 About Me</h2>
 
 🎓 Systems Engineering Student
 
+<br><br>
+
 💻 Passionate about Web Development
+
+<br><br>
 
 🌱 Currently learning new technologies and improving my skills
 
