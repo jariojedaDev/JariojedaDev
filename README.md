@@ -6,7 +6,7 @@
 
 Creative Computer Systems Engineering Student
 
-💖 Web Development • UI Design • Databases
+Web Development • UI Design • Databases
 
 </div>
 
@@ -19,7 +19,7 @@ Creative Computer Systems Engineering Student
 
 <td width="510" valign="top">
 
-<h2 align="center">🌷 About Me</h2>
+<h2 align="center">🌸 About Me</h2>
 <br>
 
 🎓 Systems Engineering Student
@@ -79,7 +79,7 @@ Creative Computer Systems Engineering Student
 
 ---
 
-## 💖 Let's Connect
+## Let's Connect
 
 📧 jariojeda.dev@gmail.com
 
