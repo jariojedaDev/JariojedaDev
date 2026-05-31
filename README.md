@@ -41,15 +41,19 @@ Creative Computer Systems Engineering Student
 
 </td>
 
-<td align="center" width="450">
+<td width="450" valign="top">
 
 <h2>💻 Tech Stack</h2>
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql"/>
 
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
 
 </td>
 
