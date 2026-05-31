@@ -20,6 +20,7 @@ Creative Computer Systems Engineering Student
 <td width="510" valign="top">
 
 <h2 align="center">🌷 About Me</h2>
+<br>
 
 🎓 Systems Engineering Student
 
@@ -40,6 +41,7 @@ Creative Computer Systems Engineering Student
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql"/>
 
