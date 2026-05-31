@@ -2,16 +2,20 @@
 
 <img src="./Git_Jari.png" width="100%">
 
-# 🌸 Hi, I'm Jari
+# 🌸 Hi, I'm Jari 🌸
 
-### Software Developer
-### Systems Engineering Student
+Creative Computer Systems Engineering Student
 
 💖 Web Development • UI Design • Databases
 
 </div>
 
-<br>
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🌷 About Me
 
@@ -19,39 +23,74 @@
 
 💻 Passionate about Web Development
 
-🌱 Currently learning new technologies and improving my skills
+🌱 Learning new technologies
 
-🚀 Building projects to grow my portfolio
+🚀 Building personal projects
 
 🎨 Interested in UI/UX Design
 
-<br>
+</td>
+
+<td width="50%" valign="top">
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
-<br>
+</td>
+
+</tr>
+</table>
+
+---
 
 ## ✨ Featured Projects
 
-### ☕ Coffee Shop Website
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### ☕
+
+Coffee Shop Website
 
 Responsive website built with HTML, CSS and JavaScript.
 
-### 📊 Administrative Dashboard
+</td>
 
-Dashboard for user and sales management.
+<td width="33%" align="center">
 
-### 🗄️ Database System
+### 📊
 
-Project focused on database design and management using MySQL and PHP.
+Admin Dashboard
 
-<br>
+Administrative panel for managing users and sales.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🗄️
+
+Database System
+
+Database design and implementation using MySQL and PHP.
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 📚 Certifications
 
@@ -61,47 +100,34 @@ Project focused on database design and management using MySQL and PHP.
 
 *Santander Open Academy*
 
-<br>
+---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jariojedaDev&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jariojedaDev&layout=compact&theme=radical"/>
-
-</div>
-
-<br>
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jariojedaDev&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jariojedaDev&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jariojedaDev&layout=compact&theme=radical&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jariojedaDev&theme=radical&hide_border=true"/>
 
 </div>
 
-<br>
+---
 
-## 🌸 Currently
-
-- 📚 Studying Systems Engineering
-- 💻 Learning Web Development
-- 🚀 Building personal projects
-- 🎨 Improving UI/UX skills
-
-<br>
-
-## 🤝 Connect With Me
+## 💌 Let's Connect
 
 📧 jariojeda.dev@gmail.com
 
-🌎 Mexico
+🌎 México
 
-<br>
+---
 
 <div align="center">
 
-✨ Thanks for visiting my profile ✨
+✨ Building the future, one line of code at a time ✨
 
 </div>
