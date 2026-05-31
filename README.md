@@ -41,7 +41,7 @@ Creative Computer Systems Engineering Student
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
 
 </p>
 
