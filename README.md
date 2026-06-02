@@ -22,15 +22,15 @@ Web Development • UI Design • Databases
 <h2 align="center">🌸 About Me</h2>
 <br>
 
-👧 Systems Engineering Student
+🌸 Creative and detail-oriented developer
 
-💻 Passionate about Web Development
+💡 Interested in building practical solutions for real businesses
 
-🌱 Currently learning new technologies and improving my skills
+📊 Experience working with web applications and databases
 
-🚀 Building projects to grow my portfolio
+🤝 Enjoy learning through hands-on projects
 
-🎨 Interested in UI/UX Design
+✨ Focused on writing clean and user-friendly interfaces
 
 <br>
 
