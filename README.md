@@ -77,7 +77,7 @@ Web Development • UI Design • Databases
 
 ---
 
-## Let's Connect
+## Contact me
 
 📧 jariojeda.dev@gmail.com
 
