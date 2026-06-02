@@ -22,15 +22,15 @@ Web Development • UI Design • Databases
 <h2 align="center">🌸 About Me</h2>
 <br>
 
-🌸 Creative and detail-oriented developer
+🌸 Creative and detail-oriented developer.
 
-🌸 Interested in building practical solutions for real businesses
+🌸 Interested in building practical solutions for real businesses.
 
-🌸 Experience working with web applications and databases
+🌸 Experience working with web applications and databases.
 
-🌸 Enjoy learning through hands-on projects
+🌸 Enjoy learning through hands-on projects.
 
-🌸 Focused on writing clean and user-friendly interfaces
+🌸 Focused on writing clean and user-friendly interfaces.
 
 <br>
 
@@ -69,10 +69,10 @@ Web Development • UI Design • Databases
 ## 🌸 Currently
 
 ```txt
-📚 Studying Systems Engineering
-💻 Learning Web Development
-🚀 Building personal projects
-🎨 Improving UI/UX skills
+📚 Studying Systems Engineering.
+💻 Learning Web Development.
+🚀 Building personal projects.
+🎨 Improving UI/UX skills.
 ```
 
 ---
